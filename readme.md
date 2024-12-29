@@ -19,4 +19,4 @@ Additionally, the project requires **Python 3.13.0**. Ensure you have this versi
 
 To install the required packages, run:
 ```bash
-pip install pandas numpy matplotlib seaborn scikit-learn
+pip install -r requirements.txt
