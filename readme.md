@@ -4,7 +4,7 @@ This project contains a Jupyter Notebook (`TitanicSS.ipynb`) for analyzing and v
 
 ## Features
 - **Data Cleaning**: Handles missing values and preprocesses the dataset.
-- **Exploratory Data Analysis (EDA)**: Examines survival rates and relationships between features like age, class, and gender.
+- **Exploratory Data Analysis (EDA)**: Examines survival rates and relationships between features like HomePlanet, Destination, Cabin etc.
 - **Visualizations**: Generates insightful plots, including boxplots comparing numerical features based on survival status.
 
 ## Requirements
