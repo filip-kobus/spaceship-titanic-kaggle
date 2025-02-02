@@ -2,6 +2,9 @@
 
 This project contains a Jupyter Notebook (`TitanicSS.ipynb`) for analyzing and visualizing the Titanic dataset. The notebook includes steps for data preprocessing, exploratory data analysis (EDA), and visualizations to better understand key features of the dataset.
 
+## Competition
+https://www.kaggle.com/competitions/spaceship-titanic
+
 ## Features
 - **Data Cleaning**: Handles missing values and preprocesses the dataset.
 - **Exploratory Data Analysis (EDA)**: Examines survival rates and relationships between features like HomePlanet, Destination, Cabin etc.
