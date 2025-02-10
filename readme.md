@@ -17,6 +17,7 @@ The following Python libraries are used:
 - `matplotlib`
 - `seaborn`
 - `scikit-learn` (optional, if modeling is included)
+- `xgboost`
 
 Additionally, the project requires **Python 3.13.0**. Ensure you have this version installed.
 
